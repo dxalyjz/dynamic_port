@@ -1,6 +1,3 @@
-/logs
-/old
-/release
-/.redis_pass
-/citra-room.exe
-/depackge.
+*
+!/.citra_query_api_new.py
+!/.dog.py
