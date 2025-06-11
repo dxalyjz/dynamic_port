@@ -1,0 +1,1 @@
+citra-room --room-name "北京4" --preferred-game "MONSTER HUNTER 3 (tri-) G" --log-file 1/citra-room.log --preferred-game-id "0004000000048100" --port 24876  --max_members 4 --control-api 8088  --enable-citra-mods --ban-list-file ban_list.txt
