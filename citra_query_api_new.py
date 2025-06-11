@@ -17,7 +17,7 @@ import os
 import sys
 from flask_cors import CORS
 
-FLASK_HOST = '127.0.0.1'
+FLASK_HOST = '127.0.0.1' # 改为0.0.0.0
 FLASK_PORT = 56972
 
 REDIS_HOST = '127.0.0.1'
